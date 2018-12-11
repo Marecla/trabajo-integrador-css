@@ -17,8 +17,7 @@ html, body {
     height: 50px;
 }
 
-.header .logo img,
-.imagen-principal img {
+.header .logo img,.imagen-principal img {
     width: 100%;
     height: auto;
 }
